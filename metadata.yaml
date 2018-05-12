@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5304
     wikipedia: http://en.wikipedia.org/wiki/Francis_Burnand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13244#Punch-or-the-London-Charivari--13-The-Christmas-Number-1890
 gutenberg_bookshelf:
 - Christmas
 - Punch
